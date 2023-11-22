@@ -2,7 +2,7 @@
 
 This is forked from below
 
-[![Vincent Mühler](https://travis-ci.org/justadudewhohacks/face-api.js.svg?branch=master)](https://travis-ci.org/justadudewhohacks/face-api.js)
+**[Vincent Mühler](https://travis-ci.org/justadudewhohacks/face-api.js)**
 
 ## Table of Contents
 
